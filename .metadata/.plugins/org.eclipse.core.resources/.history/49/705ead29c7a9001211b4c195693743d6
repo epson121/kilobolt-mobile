@@ -1,0 +1,7 @@
+package com.agame.game;
+
+import com.agame.framework.impl.AndroidGame;
+
+public class SampleGame extends AndroidGame {
+
+}
